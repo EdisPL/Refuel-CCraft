@@ -1,0 +1,2 @@
+auto refuel single slot             https://gist.github.com/EdisPL/f7e61380a5553dfe3e8bb1845b83dedf
+auto refuel 16 slot                 https://gist.github.com/EdisPL/3f281d2abdf4015202609258197d5f8e
